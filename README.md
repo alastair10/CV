@@ -114,10 +114,6 @@ _Bachelors in Biology_ - Minor in Chemistry/Environmental Studies
 
 ## Skills
 
-#### Understanding of Databases:
-
-- Worked with large and fragmented datasets using tools like Excel, SQL and Python as part of the Growth and Analytics team.
-
 ## Hobbies and Interests
 
 - Formula 1, cosmology, football (fantasy football), snowboarding, swimming, cross country running, and acoustic guitar.
