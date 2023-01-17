@@ -41,18 +41,16 @@ _Portfolio Impact Manager_
 
 **Insight Investment (investment management)** - London, UK (2018 - 2022)
 _Investment Specialist_
-Analytical Experience
 
-- Updated valuation models to help investment teams monitor/optimise? potential investment targets (specific - price co's). Impact numbers?
-- Launched client dashboards for ESG (environmental, social, and governance) reporting (user requirements ). Add more detail on what dashboard is?
+- Launched client reporting dashboards for ESG (environmental, social, and governance) data using multiple data sources (e.g. Bloomberg, internal ratings database, etc.).
 - Helped ESG team with market research and data analysis (internal ESG scoring). Tools used: Tableau, SQL.
 
 **Care Ventures (venture capital/private equity)** - Barcelona, Spain (2016)  
 _Summer Associate, Private Equity_
 
-- Built and updated firm’s financial forecast and valuation models, which did what...impact??
+- Built and updated firm’s financial forecast and valuation models for startup healthcare portfolio companies.
 - Assessed health of portfolio companies by tracking financial and operational KPIs. Presented information to management and senior stakeholders in clear, concise reports.
-- Conducted due diligence of a private Spanish healthcare company and worked with management team to build business model and financial forecasts. Presented analysis and recommendation to investment committee. (combine sentences somehow?)
+- Conducted due diligence of a private Spanish healthcare company and worked with management team to build business model and financial forecasts. Presented analysis and recommendation to investment committee.
 - Completed in-depth analysis of retail healthcare services industry in Spain and identified 5 target companies (revenues exceeding €1 million) for potential investment.
 
 **Wellington Management (investment management)** - Boston, USA (2013 - 2015)
@@ -82,7 +80,7 @@ _Financial Reporting Associate II_ - (2008 - 2012)
 
 _A Leading Full Stack Software Development Bootcamp in London, UK_
 
-- Developed web apps using software design principles such as **OOP, TDD, MVC, BDD** and modern technology such as **React, Next.js, MongoDB, **.
+- Developed web apps using software design principles such as **OOP, TDD, MVC, BDD** and modern technology such as **MERN**.
 - Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git**, and collaborative tools such as Trello, Miroboard, Figma and Github.
 - Frequently pair programmed to solve problems efficiently in a fully remote and self-led learning environment, which improved my teamwork and communication skills.
 
@@ -90,12 +88,14 @@ _A Leading Full Stack Software Development Bootcamp in London, UK_
 
 _Masters of Business Administration (MBA)_
 
+- Awards:
+  - 1st place in 2016 Venture Capital Investment Competition: a school-wide competition involving investment analysis, forecasting, and pitching to startups/VCs. (2016)
+
 - Relevant Coursework:
   - Data Science with R
   - Quantitative Methods
   - Decision Analysis (Bayes/Probability/Monte Carlo Simulation)
-- Awards:
-  - 1st place in 2016 Venture Capital Investment Competition: a school-wide competition involving investment analysis, forecasting, and pitching to startups/VCs. (2016)
+
 
 #### Bowdoin College - Brunswick, USA (2003 - 2007)
 
