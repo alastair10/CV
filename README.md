@@ -1,16 +1,16 @@
-<h1 align="center">Alastair Chau</h1>
+<div align="center">
+<h1>Alastair Chau</h1>
 
 [About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/alastairchau/)
 
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=alastair10&show_icons=true&theme=radical" alt="Alastair's Github stats" width"50%"/></p>
+</div>
 
 ## About me
 
-I am a proactive and adaptive **Full Stack Developer** with a background in the financial industry and tech startups in the UK (fintechs) and EU (healthcare). I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modeling, strategy, and data analytics (stack: SQL/Python). My interest in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities drove me to transition into software development.
+I am a proactive and adaptive **Full Stack Developer** with a background in the financial industry and tech startups in the UK (fintechs) and EU (healthcare). I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modeling, strategy, and data analytics (stack: SQL/Python). My interest in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities have driven me to transition into software development.
 
-I have worked in the UK, the US, and Spain and was most recently a Portfolio Impact Manager for [Blenheim Chalcot](https://www.blenheimchalcot.com/), the UK's leading digital venture builder/accelerator, where I was responsible for helping fintech startups by providing product management, strategy, and financial modeling/forecasting support.
-
-My previous work and educational experiences have enabled me to build a skillset that combines significant commercial and technical experience in both analytical and client-facing roles. This has allowed me to deliver creative and practical solutions within team projects for clients, internal teams, and multiple C-level stakeholders/partners.
+My previous work and education have enabled me to build a skillset that combines significant commercial and technical experience in both analytical and client-facing roles. This has allowed me to deliver creative and practical solutions within team projects for clients, internal teams, and multiple C-level stakeholders/partners.
 
 ## Projects
 
@@ -19,15 +19,13 @@ My previous work and educational experiences have enabled me to build a skillset
 <p align="left"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alastair10&layout=compact&theme=radical" alt="Alastair Chau's Top Languages"/></p>
 
 - Programming languages (JavaScript, Ruby, Python)
-- Web Frameworks (React)
+- Web Frameworks and Libraries (React, Next.js, Express)
 - Databases (MongoDB, PostgreSQL/MySQL, TablePlus)
 - Object-Oriented Design (OOD), Controller Design Patterns, RESTful APIs, SOLID principles
 - Test-Driven Development (RSpec, Jest, Cypress)
 - Version control and CI/CD (Git/Github)
 - Agile/XP (pair programming, stand-ups, retros, and sprint planning)
 - Other (HTML5/CSS3)
-
-Express, Next.js
 
 ## Experience
 
@@ -38,7 +36,7 @@ _Portfolio Impact Manager_
 - Managed Jira and Trello boards and helped to define user journies in Miro with remote software engineering teams.
 
 - Built financial forecast models for 2 separate fintech/lending startups. lending projections (cost, revenue, breakevens, etc.) for 
-- Used SQL (Postgresql), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to cut overall costs by 15% over 6 months.
+- Used SQL (Postgresql), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
 **Insight Investment (investment management)** - London, UK (2018 - 2022)
@@ -60,8 +58,8 @@ _Summer Associate, Private Equity_
 **Wellington Management (investment management)** - Boston, USA (2013 - 2015)
 _Analyst, Multi-Asset Team (Global Relationship Group)_ - (2014 - 2015)
 
-- Product analyst for firm’s existing and newly launched multi-asset investment products.
-- Conducted data analysis (market research, due diligence??) and built financial models for equity analysts.
+- Product analyst for firm’s existing and newly launched multi-asset investment product suite.
+- Conducted data analysis, market research, investment data due diligence, and contributed to financial models for equity analysts.
 
 _Analyst, Generalist (Global Relationship Group)_ - (2013 - 2014)
 
