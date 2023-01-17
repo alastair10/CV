@@ -19,8 +19,8 @@ My previous work and education have enabled me to build a skillset that combines
 <p align="left"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alastair10&layout=compact&theme=radical" alt="Alastair Chau's Top Languages"/></p>
 
 - Programming languages (JavaScript, Ruby, Python)
-- Web Frameworks and Libraries (React, Next.js, Express)
-- Databases (MongoDB, PostgreSQL/MySQL, TablePlus)
+- Web Frameworks and Libraries (React, Node, Express)
+- Databases (MongoDB, PostgreSQL, TablePlus)
 - Object-Oriented Design (OOD), Controller Design Patterns, RESTful APIs, SOLID principles
 - Test-Driven Development (RSpec, Jest, Cypress)
 - Version control and CI/CD (Git/Github)
@@ -113,39 +113,6 @@ _Bachelors in Biology_ - Minor in Chemistry/Environmental Studies
 - **Data Analysis Intensive (Python, SQL, Tableau)** - _Step Function_ (2019)
 
 ## Skills
-
-#### Strong Analytical Mindset, Creative Problem Solving and Research skills (Add one example here)
-
-Throughout my career I have benefitted immensely from my solution-oriented mindset and efficient problem-solving skills using a combination of analytical frameworks, data and creative thinking. Some examples include:
-
-- Successfully delivered on one of the high-priority projects in [Gallup](https://www.gallup.com/corporate/212381/who-we-are.aspx), after quickly researching large amounts of data in multiple languages within a short deadline. See reference on my [Linkedin page](https://www.linkedin.com/in/gunelmehdiyeva/).
-- Authored a research report on market analysis and macro-economic evaluation of US-Azerbaijan trade relationship while working at the [United States-Azerbaijan Chamber of Commerce](https://www.usacc.org) in Washington DC, USA.
-- Successfully completed a data science project within a week using R programming language to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
-- Scored a 690 (85th percentile globally) on [Graduate Management Admission Test (GMAT)](https://en.wikipedia.org/wiki/Graduate_Management_Admission_Test) exam, a computer adaptive test intended to assess analytical and quantitative reasoning skills within a month of preparation while working full time.
-
-#### Strong Project Management and Time-management skills (use something from BC)
-
-Working in fast-paced project-based environments such as consulting, project management and marketing honed my project management and time-management skills. Some examples include:
-
-- Managed the Unified Investment Platform project to help 12 US-based SMEs expand into the Black-Caspian Sea Region as a Project Management Consultant at USACC.
-- Helped organise[ “Doing Good Doing Well” Conference](https://www.ieserbc.com/) to promote responsible business through Sustainable Development Goals.
-- Organised two charity events (an exhibition-auction to support refugee children and a fundraising concert to fund treatment of children with Down Syndrome) during my finals - was included in the Dean’s Honor List for high GPA (94.8 out of 100).
-
-#### Effective Communication, Teamwork and Leadership skills (pick presentation skills)
-
-I have extensive experience working with people from diverse backgrounds, solving problems in high-pressure team settings and presenting findings to both technical and non-technical teams. Some examples include:
-
-- Won MBA [Capstone Project Competition](https://mba.iese.edu/program/curriculum-content/capstone/) "Social Media (Enterprise Sales) Strategy for Hewlett Packard Enterprise", as part of a 5-member multinational team.
-- Delivered multiple presentations in front of internal and external stakeholders as a consultant at Gallup while working closely with cross-functional project teams based in the UK, USA, Germany and Bahrain.
-- Co-founded and led Youth Development Public Union, a fundraising NGO for underprivileged children.
-- Successfully delivered multiple projects as a member of several agile software development teams while at Makers.
-
-#### Fast and adaptable learner (something from makers)
-
-I take pride in my innate intellectual curiosity and genuine desire to understand how things work. The diversity of experiences I have been through taught me the ability to learn quickly and efficiently. Some examples include:
-
-- Built a [single-page map application](https://github.com/GunelMC/betwixt) within 10 days using an entirely new library (React) and framework (Next.js) with only limited previous Javascript knowledge. Presentation demo [here](https://www.youtube.com/watch?v=mP_3_DJjg8g).
-- Taught myself how to manipulate databases using advanced SQL queries within a month for my job within the Growth and Analytics team.
 
 #### Understanding of Databases:
 
