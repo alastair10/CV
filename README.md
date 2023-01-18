@@ -19,15 +19,15 @@ My previous work and education have enabled me to build a skillset that combines
 
 | **Title**        | **Description**                                                                                                              | **Development Time** | **Technologies**                                                                                                      |
 |------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| _Zero%Brews_     | Web app to find, review, and save alcohol-free beers.                                                                        | 2 weeks              | React.js, MongoDB, Node.js, Express.js, Cypress, HTML & CSS. Deployed on Vercel and Render (see repos here and here). |
+| [_Zero%Brews_](https://www.zeropercentbrews.com/)     | Web app to find, review, and save alcohol-free beers.                                                                        | 2 weeks              | React.js, MongoDB, Node.js, Express.js, Cypress, HTML & CSS. Deployed on Vercel and Render (see repos here and here). |
 | _Find-a-Film_    | Web app that lets users search for a film and quickly determine which platform offers it for streaming, rental, or purchase. | 2 weeks              | TypeScript, React.js, Cypress, HTML & CSS                                                                             |
-| _Acebook_        | MVP of a social media platform using an existing (buggy) code base.                                                          | 2 weeks              | React.js, MongoDB, Node.js, Express.js, Cypress, HTML & CSS                                                           |
-| _MakersBnb_      | Slimmed-down web app that allows users to book spaces as well as rent out spaces they own.                                   | 1 week               | Ruby, Sinatra, PostgreSQL, HTML, CSS, Rspec, Twilio API                                                               |
-| _Bank Tech Test_ | Mock tech test to build a simple banking application using TDD, OOD principles, and best practices.                          | 3 days               | Ruby, RSpec - 100% Test Coverage                                                                                      |
+| [_Acebook_](https://github.com/alastair10/AceBook)        | MVP of a social media platform using an existing (buggy) code base.                                                          | 2 weeks              | React.js, MongoDB, Node.js, Express.js, Cypress, HTML & CSS                                                           |
+| [_MakersBnb_](https://github.com/alastair10/MakersBnB)      | Slimmed-down web app that allows users to book spaces as well as rent out spaces they own.                                   | 1 week               | Ruby, Sinatra, PostgreSQL, HTML, CSS, Rspec, Twilio API                                                               |
+| [_Bank Tech Test_](https://github.com/alastair10/bank_tech_test) | Mock tech test to build a simple banking application using TDD, OOD principles, and best practices.                          | 3 days               | Ruby, RSpec - 100% Test Coverage                                                                                      |
 
 ## Tech Stack
 
-<p align="left"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alastair10&layout=compact&theme=radical" alt="Alastair Chau's Top Languages"/></p>
+<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alastair10&layout=compact&theme=radical" alt="Alastair's Top Languages"/></p>
 
 - Programming languages (JavaScript, Ruby, Python)
 - Web Frameworks and Libraries (React, Node, Express)
