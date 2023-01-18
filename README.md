@@ -9,13 +9,21 @@
 
 ## About me
 
-I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and tech startups in the UK (fintechs) and EU (healthcare). I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modeling, strategy, and data analytics (stack: SQL/Python). 
+I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and tech startups in the UK (fintechs) and EU (healthcare). I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modeling, strategy, and data analytics (stack: SQL/Python).
 
-My interest in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities have driven me to transition into software development.
+My interests in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities have driven me to transition into software development.
 
 My previous work and education have enabled me to build a skillset that combines significant commercial and technical experience in both analytical and client-facing roles. This has allowed me to deliver creative and practical solutions within team projects for clients, internal teams, and multiple C-level stakeholders/partners.
 
 ## Projects
+
+| **Title**        | **Description**                                                                                                              | **Development Time** | **Technologies**                                                                                                      |
+|------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------|
+| _Zero%Brews_     | Web app to find, review, and save alcohol-free beers.                                                                        | 2 weeks              | React.js, MongoDB, Node.js, Express.js, Cypress, HTML & CSS. Deployed on Vercel and Render (see repos here and here). |
+| _Find-a-Film_    | Web app that lets users search for a film and quickly determine which platform offers it for streaming, rental, or purchase. | 2 weeks              | TypeScript, React.js, Cypress, HTML & CSS                                                                             |
+| _Acebook_        | MVP of a social media platform using an existing (buggy) code base.                                                          | 2 weeks              | React.js, MongoDB, Node.js, Express.js, Cypress, HTML & CSS                                                           |
+| _MakersBnb_      | Slimmed-down web app that allows users to book spaces as well as rent out spaces they own.                                   | 1 week               | Ruby, Sinatra, PostgreSQL, HTML, CSS, Rspec, Twilio API                                                               |
+| _Bank Tech Test_ | Mock tech test to build a simple banking application using TDD, OOD principles, and best practices.                          | 3 days               | Ruby, RSpec - 100% Test Coverage                                                                                      |
 
 ## Tech Stack
 
@@ -39,7 +47,7 @@ _Portfolio Impact Manager_
 - Managed Jira and Trello boards and helped to define user journies in Miro with remote software engineering teams.
 
 - Built financial forecast models for 2 separate fintech/lending startups. lending projections (cost, revenue, breakevens, etc.) for 
-- Used SQL (Postgresql), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
+- Used SQL (PostgreSQL), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
 **Insight Investment (investment management)** - London, UK (2018 - 2022)
@@ -53,8 +61,6 @@ _Summer Associate, Private Equity_
 
 - Built and updated firm’s financial forecast and valuation models for startup healthcare portfolio companies.
 - Assessed health of portfolio companies by tracking financial and operational KPIs. Presented information to management and senior stakeholders in clear, concise reports.
-- Conducted due diligence of a private Spanish healthcare company and worked with management team to build business model and financial forecasts. Presented analysis and recommendation to investment committee.
-- Completed in-depth analysis of retail healthcare services industry in Spain and identified 5 target companies (revenues exceeding €1 million) for potential investment.
 
 **Wellington Management (investment management)** - Boston, USA (2013 - 2015)
 _Analyst, Multi-Asset Team (Global Relationship Group)_ - (2014 - 2015)
@@ -84,7 +90,7 @@ _Financial Reporting Associate II_ - (2008 - 2012)
 _A Leading Full Stack Software Development Bootcamp in London, UK_
 
 - Developed web apps using software design principles such as **OOP, TDD, MVC, BDD** and modern technology such as **MERN**.
-- Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git**, and collaborative tools such as Trello, Miroboard, Figma and Github.
+- Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git**, and collaborative tools such as Trello, Miro, Figma, and Github.
 - Frequently pair programmed to solve problems efficiently in a fully remote and self-led learning environment, which improved my teamwork and communication skills.
 
 #### IESE Business School - Barcelona, Spain (2015 - 2017)
@@ -92,7 +98,7 @@ _A Leading Full Stack Software Development Bootcamp in London, UK_
 _Masters of Business Administration (MBA)_
 
 - Awards:
-  - 1st place in 2016 Venture Capital Investment Competition: a school-wide competition involving investment analysis, forecasting, and pitching to startups/VCs. (2016)
+  - 1st place in 2016 Venture Capital Investment Competition: a school-wide competition involving investment analysis, forecasting, and pitching to startups/VCs.
 
 - Relevant Coursework:
   - Data Science with R
@@ -120,4 +126,4 @@ _Bachelors in Biology_ - Minor in Chemistry/Environmental Studies
 ## Hobbies and Interests
 
 - Formula 1, cosmology, football (fantasy football), snowboarding, swimming, cross country running, and acoustic guitar.
-- Volunteering: Community youth football coach (ages 5-7) in Boston, USA. Rotary International volunteer – built, delivered, and installed water filters for remote village communities in Trujillo, Honduras.
+- Volunteering: Community youth football coach in Boston, USA. Rotary International volunteer - built, delivered, and installed water filters for remote village communities in Trujillo, Honduras.
