@@ -5,6 +5,8 @@
 
 </div>
 
+<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=alastair10&show_icons=true&theme=radical" alt="Alastair's Github stats" width"50%"/></p>
+
 ## About me
 
 I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and tech startups in the UK (fintechs) and EU (healthcare). I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modeling, strategy, and data analytics (stack: SQL/Python). 
@@ -12,8 +14,6 @@ I am a proactive and adaptable **Full Stack Developer** with a background in the
 My interest in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities have driven me to transition into software development.
 
 My previous work and education have enabled me to build a skillset that combines significant commercial and technical experience in both analytical and client-facing roles. This has allowed me to deliver creative and practical solutions within team projects for clients, internal teams, and multiple C-level stakeholders/partners.
-
-<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=alastair10&show_icons=true&theme=radical" alt="Alastair's Github stats" width"50%"/></p>
 
 ## Projects
 
@@ -45,7 +45,7 @@ _Portfolio Impact Manager_
 **Insight Investment (investment management)** - London, UK (2018 - 2022)
 _Investment Specialist_
 
-- Launched client reporting dashboards for ESG (environmental, social, and governance) data using multiple data sources (e.g. Bloomberg, internal ratings database, etc.).
+- Launched client reporting dashboards for ESG (environmental, social, and governance) data using multiple data sources (e.g. Bloomberg, internal ratings database, Morningstar, etc.).
 - Helped ESG team with market research and data analysis (internal ESG scoring). Tools used: Tableau, SQL.
 
 **Care Ventures (venture capital/private equity)** - Barcelona, Spain (2016)  
