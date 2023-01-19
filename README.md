@@ -123,6 +123,8 @@ _Bachelors in Biology_ - Minor in Chemistry/Environmental Studies
 
 ## Skills
 
+[Pending...]
+
 ## Hobbies and Interests
 
 - Formula 1, cosmology, football (fantasy football), snowboarding, swimming, cross country running, and acoustic guitar.
