@@ -7,6 +7,8 @@
 
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=alastair10&show_icons=true&theme=radical" alt="Alastair's Github stats" width"50%"/></p>
 
+[![Alastair's GitHub stats](https://github-readme-stats.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark](https://github.com/alastair10/github-readme-stats)
+
 ## About me
 
 I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and tech startups in the UK (fintechs) and EU (healthcare). I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modeling, strategy, and data analytics (stack: SQL/Python).
@@ -36,7 +38,7 @@ My previous work and education have enabled me to build a skillset that combines
 - Test-Driven Development (RSpec, Jest, Cypress)
 - Version control and CI/CD (Git/Github)
 - Agile/XP (pair programming, stand-ups, retros, and sprint planning)
-- Other (HTML5/CSS3)
+- Other (HTML5 & CSS3)
 
 ## Experience
 
