@@ -6,7 +6,7 @@
 </div>
 
 <!-- <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=alastair10&show_icons=true&theme=radical" alt="Alastair's Github stats" width"50%"/></p> -->
-<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Alastair's Github stats" width"50%"/></p>
+<p align="center"><img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Alastair's Github stats" width"50%"/></p>
 
 
 <!-- [![Alastair's GitHub stats](https://github-readme-stats.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark](https://github.com/alastair10/github-readme-stats) -->
