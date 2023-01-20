@@ -3,13 +3,10 @@
 
 [About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/alastairchau/)
 
+
 </div>
 
-<!-- <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=alastair10&show_icons=true&theme=radical" alt="Alastair's Github stats" width"50%"/></p> -->
 <p align="center"><img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Alastair's Github stats" width"50%"/></p>
-
-
-<!-- [![Alastair's GitHub stats](https://github-readme-stats.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark](https://github.com/alastair10/github-readme-stats) -->
 
 ## About me
 
@@ -31,7 +28,7 @@ My previous work and education have enabled me to build a skillset that combines
 
 ## Tech Stack
 
-<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alastair10&layout=compact&theme=radical" alt="Alastair's Top Languages"/></p>
+<p align="center"><img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alastair10&layout=compact&theme=chartreuse-dark" alt="Alastair's Top Languages"/></p>
 
 - Programming languages (JavaScript, Ruby, Python)
 - Web Frameworks and Libraries (React, Node, Express)
