@@ -28,7 +28,7 @@ My previous work and education have enabled me to build a skillset that combines
 
 ## Tech Stack
 
-<p align="center"><img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alastair10&layout=compact&theme=chartreuse-dark" alt="Alastair's Top Languages"/></p>
+<p align="center"><img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alastair10&langs_count=6&layout=compact&theme=chartreuse-dark" alt="Alastair's Top Languages"/></p>
 
 - Programming languages (JavaScript, Ruby, Python)
 - Web Frameworks and Libraries (React, Node, Express)
