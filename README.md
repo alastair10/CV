@@ -131,6 +131,6 @@ I have extensive experience successfully working with people from diverse backgr
 ## Hobbies and Interests
 
 - Formula 1, cosmology (or anything space-related!), football, playing fantasy football (badly!), snowboarding, swimming, and acoustic guitar.  
-_Volunteering:_  
-- Community youth football coach in Boston, USA.
-- Rotary International volunteer - built, delivered, and installed water filters for remote village communities in Trujillo, Honduras.
+- Volunteering:
+  - Community youth football coach in Boston, USA.
+  - Rotary International volunteer - built, delivered, and installed water filters for remote village communities in Trujillo, Honduras.
