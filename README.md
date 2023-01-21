@@ -118,15 +118,18 @@ My experience in the financial industry involved highly analytical tasks that of
 - Built several financial models as a private equity associate to estimate the valuations of acquisition targets and their potential return on investment. In each model, I included scenario analysis that represented a range of macro market conditions and variables that could be dynamically altered.
 - As an investment specialist, I would use ESG data, company financial information, and bond market data to analyse the performance of bond investments. This analysis would then be used by the investment committee when picking investments for client portfolios.
 - During my MBA, I successfully completed a data science project within a week using R programming language (with no prior programming knowledge)  to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.  
+
 **Communication**  
 Clear and effective communication was an essential part of each of my previous roles. 
 - As a portfolio impact manager, I was responsible for presenting strategic options and complex financial data to senior executives and potential investors at monthly and quarterly intervals. The presentations needed to tell a story about the data and include actionable insights that could be understood by both technical and non-technical teams.
 - I delivered multiple presentations in front of internal stakeholders and clients as an investment specialist at Insight Investment. In some instances, negative news (poor investment performance) needed to be delivered so I learned how to manage client expectations and present in high pressure situations.  
+
 **Teamwork**  
 I have extensive experience successfully working with people from diverse backgrounds in a variety of high pressure situations. Some examples include:
 - As an investment specialist, I worked in a team that helped to develop and launch the firm’s first range of ESG investment products. The international team consisted of people from different departments with varying degrees of technical ability, with several CXO members.
 - Won the 2016 IESE Business School [Venture Capital Investment Competition](https://www.vcic.org/), as part of a four member multinational team with no prior venture capital experience. Competed against the entire business school and beat several teams with VC industry experience.
 - Successfully delivered multiple projects as a member of several agile software development teams while at Makers. Also volunteered to complete one extra team project that was not part of the course: [Find-a-Film](https://github.com/alastair10/Find-a-Film).  
+
 **Fast learner**  
 - After graduating with a STEM degree (Biology major with a minor in Environmental Studies and Chemistry), I earned a full-time offer to one of the largest institutional investment firms in the US (State Street Bank) by demonstrating that I could quickly learn complex investment concepts on my own despite having no previous experience in finance.
 - Integral part of a team that learned how to build a full-stack social media application within 10 days. Project was built using an entirely new tech stack (MERN) with only limited previous Javascript knowledge. See project [here](https://github.com/alastair10/AceBook).
