@@ -2,8 +2,6 @@
 <h1>Alastair Chau</h1>
 
 [About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/alastairchau/)
-
-
 </div>
 
 <p align="center"><img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Alastair's Github stats" width"50%"/></p>
@@ -43,45 +41,36 @@ My previous work and education have enabled me to build a skillset that combines
 
 **Blenheim Chalcot (venture capital/accelerator)** - London, UK (2022)  
 _Portfolio Impact Manager_
-
 - Product manager experience: worked with engineers to translate business requirements into product features: page design, user interface, and breakeven calculations/graphs for customer loans.
 - Managed Jira and Trello boards and helped to define user journies in Miro with remote software engineering teams.
-
 - Built financial forecast models for 2 separate fintech/lending startups. lending projections (cost, revenue, breakevens, etc.) for 
 - Used SQL (PostgreSQL), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
 **Insight Investment (investment management)** - London, UK (2018 - 2022)
 _Investment Specialist_
-
 - Launched client reporting dashboards for ESG (environmental, social, and governance) data using multiple data sources (e.g. Bloomberg, internal ratings database, Morningstar, etc.).
 - Helped ESG team with market research and data analysis (internal ESG scoring). Tools used: Tableau, SQL.
 
 **Care Ventures (venture capital/private equity)** - Barcelona, Spain (2016)  
 _Summer Associate, Private Equity_
-
 - Built and updated firm’s financial forecast and valuation models for startup healthcare portfolio companies.
 - Assessed health of portfolio companies by tracking financial and operational KPIs. Presented information to management and senior stakeholders in clear, concise reports.
 
 **Wellington Management (investment management)** - Boston, USA (2013 - 2015)
 _Analyst, Multi-Asset Team (Global Relationship Group)_ - (2014 - 2015)
-
 - Product analyst for firm’s existing and newly launched multi-asset investment product suite.
 - Conducted data analysis, market research, investment data due diligence, and contributed to financial models for equity analysts.
 
 _Analyst, Generalist (Global Relationship Group)_ - (2013 - 2014)
-
 - Led team of five analysts responsible for writing investment updates, including portfolio performance and investment data updates across different sectors.
 - Trained investment teams on reporting systems/applications. Coordinated reporting processes for global offices.
 - Created detailed summary reports of performance attribution, positioning data, and market commentary.
 
 **State Street Bank (investment management)** - Boston, USA (2008 - 2012)
 _Client Operations Senior Associate_ - (2012 - 2013)
-
 - Managed client, investment manager, and legal stakeholder relationships for various fund separate accounts.
-
 _Financial Reporting Associate II_ - (2008 - 2012)
-
 - Performed accounting for institutional bond funds. Led team’s Lehman Brothers counterparty reconciliation.
 
 ## Education
@@ -124,7 +113,26 @@ _Bachelors in Biology_ - Minor in Chemistry/Environmental Studies
 
 ## Skills
 
-[Pending...]
+**Analytical / Problem solver**
+My experience in the financial industry involved highly analytical tasks that often involved analysing market and company data to drive a particular strategy or investment decision. Some examples include:
+- Built several financial models as a private equity associate to estimate the valuations of acquisition targets and their potential return on investment. In each model, I included scenario analysis that represented a range of macro market conditions and variables that could be dynamically altered.
+- As an investment specialist, I would use ESG data, company financial information, and bond market data to analyse the performance of bond investments. This analysis would then be used by the investment committee when picking investments for client portfolios.
+- During my MBA, I successfully completed a data science project within a week using R programming language (with no prior programming knowledge)  to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017. 
+**Communication**
+Clear and effective communication was an essential part of each of my previous roles. 
+- As a portfolio impact manager, I was responsible for presenting strategic options and complex financial data to senior executives and potential investors at monthly and quarterly intervals. The presentations needed to tell a story about the data and include actionable insights that could be understood by both technical and non-technical teams.
+- I delivered multiple presentations in front of internal stakeholders and clients as an investment specialist at Insight Investment. In some instances, negative news (poor investment performance) needed to be delivered so I learned how to manage client expectations and present in high pressure situations.
+**Teamwork**
+I have extensive experience successfully working with people from diverse backgrounds in a variety of high pressure situations. Some examples include:
+- As an investment specialist, I worked in a team that helped to develop and launch the firm’s first range of ESG investment products. The international team consisted of people from different departments with varying degrees of technical ability, with several CXO members.
+- Won the 2016 IESE Business School [Venture Capital Investment Competition](https://www.vcic.org/), as part of a four member multinational team with no prior venture capital experience. Competed against the entire business school and beat several teams with VC industry experience.
+- Successfully delivered multiple projects as a member of several agile software development teams while at Makers. Also volunteered to complete one extra team project that was not part of the course: [Find-a-Film](https://github.com/alastair10/Find-a-Film).
+**Fast learner**
+- After graduating with a STEM degree (Biology major with a minor in Environmental Studies and Chemistry), I earned a full-time offer to one of the largest institutional investment firms in the US (State Street Bank) by demonstrating that I could quickly learn complex investment concepts on my own despite having no previous experience in finance.
+- Integral part of a team that learned how to build a full-stack social media application within 10 days. Project was built using an entirely new tech stack (MERN) with only limited previous Javascript knowledge. See project [here](https://github.com/alastair10/AceBook).
+- Passed Level 1 of the [CFA exam](https://www.cfainstitute.org/) on the first try. Pass rate was 25% for my May 2021 cohort.
+- During my MBA, I successfully completed a data science project within a week using R programming language (with no prior programming knowledge)  to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017. 
+
 
 ## Hobbies and Interests
 
