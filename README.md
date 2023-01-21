@@ -39,38 +39,38 @@ My previous work and education have enabled me to build a skillset that combines
 
 ## Experience
 
-**Blenheim Chalcot (venture capital/accelerator)** - London, UK (2022)  
-_Portfolio Impact Manager_
+**Blenheim Chalcot (venture capital/accelerator)** - London, UK
+_Portfolio Impact Manager - (2022)_ 
 - Product manager experience: worked with engineers to translate business requirements into product features: page design, user interface, and breakeven calculations/graphs for customer loans.
 - Managed Jira and Trello boards and helped to define user journies in Miro with remote software engineering teams.
-- Built financial forecast models for 2 separate fintech/lending startups. lending projections (cost, revenue, breakevens, etc.) for 
+- Built financial forecast models for 2 separate fintech/lending startups. Models based around lending projections (cost, revenue, breakevens, etc.).
 - Used SQL (PostgreSQL), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
-**Insight Investment (investment management)** - London, UK (2018 - 2022)
-_Investment Specialist_
+**Insight Investment (investment management)** - London, UK
+_Investment Specialist - (2018 - 2022)_
 - Launched client reporting dashboards for ESG (environmental, social, and governance) data using multiple data sources (e.g. Bloomberg, internal ratings database, Morningstar, etc.).
 - Helped ESG team with market research and data analysis (internal ESG scoring). Tools used: Tableau, SQL.
 
-**Care Ventures (venture capital/private equity)** - Barcelona, Spain (2016)  
-_Summer Associate, Private Equity_
+**Care Ventures (venture capital/private equity)** - Barcelona, Spain  
+_Summer Associate, Private Equity - (2016)_
 - Built and updated firm’s financial forecast and valuation models for startup healthcare portfolio companies.
 - Assessed health of portfolio companies by tracking financial and operational KPIs. Presented information to management and senior stakeholders in clear, concise reports.
 
-**Wellington Management (investment management)** - Boston, USA (2013 - 2015)
-_Analyst, Multi-Asset Team (Global Relationship Group)_ - (2014 - 2015)
+**Wellington Management (investment management)** - Boston, USA
+_Analyst, Multi-Asset Team (Global Relationship Group) - (2014 - 2015)_ 
 - Product analyst for firm’s existing and newly launched multi-asset investment product suite.
 - Conducted data analysis, market research, investment data due diligence, and contributed to financial models for equity analysts.
 
-_Analyst, Generalist (Global Relationship Group)_ - (2013 - 2014)
+_Analyst, Generalist (Global Relationship Group) - (2013 - 2014)_
 - Led team of five analysts responsible for writing investment updates, including portfolio performance and investment data updates across different sectors.
 - Trained investment teams on reporting systems/applications. Coordinated reporting processes for global offices.
 - Created detailed summary reports of performance attribution, positioning data, and market commentary.
 
-**State Street Bank (investment management)** - Boston, USA (2008 - 2012)
-_Client Operations Senior Associate_ - (2012 - 2013)
+**State Street Bank (investment management)** - Boston, USA
+_Client Operations Senior Associate - (2012 - 2013)_
 - Managed client, investment manager, and legal stakeholder relationships for various fund separate accounts.
-_Financial Reporting Associate II_ - (2008 - 2012)
+_Financial Reporting Associate II - (2008 - 2012)_
 - Performed accounting for institutional bond funds. Led team’s Lehman Brothers counterparty reconciliation.
 
 ## Education
