@@ -69,7 +69,7 @@ _Analyst, Generalist (Global Relationship Group) - (2013 - 2014)_
 
 **[State Street Bank](https://www.statestreet.com/us/en/asset-manager) (investment management)** - Boston, USA  
 _Client Operations Senior Associate - (2012 - 2013)_
-- Managed client, investment manager, and legal stakeholder relationships for various fund separate accounts.
+- Managed client, investment manager, and legal stakeholder relationships for various fund separate accounts.  
 _Financial Reporting Associate II - (2008 - 2012)_
 - Performed accounting for institutional bond funds. Led team’s Lehman Brothers counterparty reconciliation.
 
@@ -130,7 +130,7 @@ I have extensive experience successfully working with people from diverse backgr
 
 ## Hobbies and Interests
 
-- Formula 1, cosmology (or anything space-related!), football, playing fantasy football (badly!), snowboarding, swimming, and acoustic guitar.
-Volunteering:  
+- Formula 1, cosmology (or anything space-related!), football, playing fantasy football (badly!), snowboarding, swimming, and acoustic guitar.  
+_Volunteering:_  
 - Community youth football coach in Boston, USA.
 - Rotary International volunteer - built, delivered, and installed water filters for remote village communities in Trujillo, Honduras.
