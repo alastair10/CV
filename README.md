@@ -28,14 +28,14 @@ My previous work and education have enabled me to build a skillset that combines
 
 <p align="center"><img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alastair10&langs_count=6&layout=compact&theme=chartreuse-dark" alt="Alastair's Top Languages"/></p>
 
-- Programming languages (JavaScript, Ruby, Python)
+- Programming languages (JavaScript, Typescript, Ruby, Python)
 - Web Frameworks and Libraries (React, Node, Express)
-- Databases (MongoDB, PostgreSQL, TablePlus)
+- Relational and Non-Relational Databases including MongoDB, PostgreSQL, MySQL, and TablePlus
 - Object-Oriented Design (OOD), Controller Design Patterns, RESTful APIs, SOLID principles
-- Test-Driven Development (RSpec, Jest, Cypress)
-- Version control and CI/CD (Git/Github)
+- Test-Driven Development (Cypress, Jest, RSpec, Postman)
+- Version control and CI/CD (Git/Github/Github Actions)
 - Agile/XP (pair programming, stand-ups, retros, and sprint planning)
-- Other (HTML5 & CSS3)
+- Other (HTML5 & CSS3, Vercel, Render)
 
 ## Experience
 
