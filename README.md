@@ -42,7 +42,7 @@ My previous work and education have enabled me to build a skillset that combines
 **[Blenheim Chalcot](https://www.blenheimchalcot.com/) (venture capital/accelerator)** - London, UK  
 _Portfolio Impact Manager - (2022)_
 - Product manager experience: worked with engineers to translate business requirements into product features: page design, user interface, and breakeven calculations/graphs for customer loans.
-- Managed Jira and Trello boards and helped to define user journies in Miro with remote software engineering teams.
+- Managed Jira and Trello boards and helped to define user journeys in Miro with remote software engineering teams.
 - Built financial forecast models for 2 separate fintech/lending startups. Models based around lending projections (cost, revenue, breakevens, etc.).
 - Used SQL (PostgreSQL), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
