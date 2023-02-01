@@ -47,10 +47,11 @@ _Portfolio Impact Manager - (2022)_
 - Used SQL (PostgreSQL), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
-**[Insight Investment](https://www.insightinvestment.com/) (investment management)** - London, UK  
+**[Insight Investment](https://www.insightinvestment.com/) (investment management - fixed income)** - London, UK  
 _Investment Specialist - (2018 - 2022)_
-- Launch client reporting dashboards for ESG (environmental, social, and governance) metrics using advanced data analysis and multiple data sources (e.g. Bloomberg, FactSet, internal ratings database, Morningstar, etc.).
-- Helped ESG team with market research and data analysis (internal ESG scoring). Tools used: Tableau, SQL.
+- Launch client reporting dashboards for ESG (environmental, social, and governance) metrics using advanced data analysis and multiple data sources (e.g. Bloomberg terminal, FactSet, internal ratings database, Morningstar, etc.).
+- Performed extensive market research and data analysis for investing in Fixed Income and ESG market (Excel, Tableau, SQL).
+- Demoed and presented findings/research regularly to management team.
 
 **[Care Ventures](https://careventures.eu/) (venture capital/private equity)** - Barcelona, Spain  
 _Summer Associate, Private Equity - (2016)_
@@ -60,10 +61,10 @@ _Summer Associate, Private Equity - (2016)_
 **[Wellington Management](https://www.wellington.com/en) (investment management)** - Boston, USA  
 _Analyst, Multi-Asset Team (Global Relationship Group) - (2014 - 2015)_ 
 - Product analyst for firm’s existing and newly launched multi-asset investment product suite.
-- Conducted data analysis, market research, investment data due diligence, and contributed to financial models for equity analysts.
+- Conducted data analysis, market research, investment data due diligence, and contributed to financial models for equity analysts. (Tools: Excel, Bloomberg terminal, FactSet)
 
 _Analyst, Generalist (Global Relationship Group) - (2013 - 2014)_ 
-- Led team of five analysts responsible for writing investment updates, including portfolio performance and investment data updates across different sectors.
+- Led team of five analysts responsible for writing investment updates, including portfolio performance and investment data updates across different sectors. (Tools: Excel, Bloomberg terminal, FactSet)
 - Trained investment teams on reporting systems/applications. Coordinated reporting processes for global offices.
 - Created detailed summary reports of performance attribution, positioning data, and market commentary.
 
