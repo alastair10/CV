@@ -28,7 +28,7 @@ My previous work and education have enabled me to build a skillset that combines
 
 <p align="center"><img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alastair10&langs_count=6&layout=compact&theme=chartreuse-dark" alt="Alastair's Top Languages"/></p>
 
-- Programming languages (JavaScript, Typescript, Ruby, Python)
+- Programming languages (JavaScript, TypeScript, Ruby, Python)
 - Web Frameworks and Libraries (React, Node, Express)
 - Relational and Non-Relational Databases including MongoDB, PostgreSQL, MySQL, and TablePlus
 - Object-Oriented Design (OOD), Controller Design Patterns, RESTful APIs, SOLID principles
@@ -43,18 +43,18 @@ My previous work and education have enabled me to build a skillset that combines
 _Portfolio Impact Manager - (2022)_
 - Product manager experience: worked with engineers to translate business requirements into product features: page design, user interface, and breakeven calculations/graphs for customer loans.
 - Managed Jira and Trello boards and helped to define user journeys in Miro with remote software engineering teams.
-- Built financial forecast models for 2 separate fintech/lending startups. Models based around lending projections (cost, revenue, breakevens, etc.).
+- Built financial forecast models for 2 separate fintech/lending startups. Models based around lending projections (interest rates, breakevens, etc.).
 - Used SQL (PostgreSQL), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
 **[Insight Investment](https://www.insightinvestment.com/) (investment management)** - London, UK  
 _Investment Specialist - (2018 - 2022)_
-- Launched client reporting dashboards for ESG (environmental, social, and governance) data using multiple data sources (e.g. Bloomberg, internal ratings database, Morningstar, etc.).
+- Launch client reporting dashboards for ESG (environmental, social, and governance) metrics using advanced data analysis and multiple data sources (e.g. Bloomberg, FactSet, internal ratings database, Morningstar, etc.).
 - Helped ESG team with market research and data analysis (internal ESG scoring). Tools used: Tableau, SQL.
 
 **[Care Ventures](https://careventures.eu/) (venture capital/private equity)** - Barcelona, Spain  
 _Summer Associate, Private Equity - (2016)_
-- Built and updated firm’s financial forecast and valuation models for startup healthcare portfolio companies.
+- Built firm’s financial forecast and valuation models for startup healthcare portfolio companies.
 - Assessed health of portfolio companies by tracking financial and operational KPIs. Presented information to management and senior stakeholders in clear, concise reports.
 
 **[Wellington Management](https://www.wellington.com/en) (investment management)** - Boston, USA  
@@ -69,15 +69,15 @@ _Analyst, Generalist (Global Relationship Group) - (2013 - 2014)_
 
 **[State Street Bank](https://www.statestreet.com/us/en/asset-manager) (investment management)** - Boston, USA  
 _Client Operations Senior Associate - (2012 - 2013)_
-- Managed client, investment manager, and legal stakeholder relationships for various fund separate accounts.  
+- Managed client, investment manager, and legal stakeholder relationships for various investment portfolios.  
 _Financial Reporting Associate II - (2008 - 2012)_
 - Performed accounting for institutional bond funds. Led team’s Lehman Brothers counterparty reconciliation.
 
 ## Education
 
 #### [Makers Academy](https://makers.tech/) - London, UK (09/2022 - 01/2023)  
-_A Leading Full Stack Software Development Bootcamp in London, UK_  
-- Developed web apps using software design principles such as **OOP, TDD, MVC, BDD** and modern technology such as **MERN**.
+_A Leading Full-Stack Software Development Bootcamp in London, UK_  
+- Developed full-stack web apps using software design principles such as **OOP, TDD, MVC, BDD** and modern technology such as **MERN**.
 - Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git**, and collaborative tools such as Trello, Miro, Figma, and Github.
 - Frequently pair programmed to solve problems efficiently in a fully remote and self-led learning environment, which improved my teamwork and communication skills.
 
