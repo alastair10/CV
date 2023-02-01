@@ -41,15 +41,15 @@ My previous work and education have enabled me to build a skillset that combines
 
 **[Blenheim Chalcot](https://www.blenheimchalcot.com/) (venture capital/accelerator)** - London, UK  
 _Portfolio Impact Manager - (2022)_
-- Product manager experience: worked with engineers to translate business requirements into product features: page design, user interface, and breakeven calculations/graphs for customer loans.
-- Managed Jira and Trello boards and helped to define user journeys in Miro with remote software engineering teams.
+- Product manager experience: worked with engineers to translate fluid business requirements into product features: page design, user interface, and breakeven calculations/graphs for customer loans.
+- Defined user journeys with remote software engineering teams (using Trello, Jira) and led design sessions (using Lucidchart and Excalidraw).
 - Built financial forecast models for 2 separate fintech/lending startups. Models based around lending projections (interest rates, breakevens, etc.).
-- Used SQL (PostgreSQL), python and MS Excel to query and analyse data for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
+- Used SQL (PostgreSQL), python and MS Excel to query and analyse large databases for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
 **[Insight Investment](https://www.insightinvestment.com/) (investment management - fixed income)** - London, UK  
 _Investment Specialist - (2018 - 2022)_
-- Launch client reporting dashboards for ESG (environmental, social, and governance) metrics using advanced data analysis and multiple data sources (e.g. Bloomberg terminal, FactSet, internal ratings database, Morningstar, etc.).
+- Launch client reporting dashboards for ESG metrics using advanced data analysis and multiple data sources (e.g. Bloomberg terminal, FactSet, internal ratings database, Morningstar, etc.).
 - Performed extensive market research and data analysis for investing in Fixed Income and ESG market (Excel, Tableau, SQL).
 - Demoed and presented findings/research regularly to management team.
 
@@ -72,7 +72,7 @@ _Analyst, Generalist (Global Relationship Group) - (2013 - 2014)_
 _Client Operations Senior Associate - (2012 - 2013)_
 - Managed client, investment manager, and legal stakeholder relationships for various investment portfolios.  
 _Financial Reporting Associate II - (2008 - 2012)_
-- Performed accounting for institutional bond funds. Led team’s Lehman Brothers counterparty reconciliation.
+- Led team’s Lehman Brothers counterparty reconciliation. Performed accounting for institutional bond funds.
 
 ## Education
 
@@ -85,7 +85,9 @@ _A Leading Full-Stack Software Development Bootcamp in London, UK_
 #### [IESE Business School](https://www.iese.edu/) - Barcelona, Spain (2015 - 2017)  
 _Masters of Business Administration (MBA)_  
 - Awards:
-  - 1st place in 2016 Venture Capital Investment Competition: a school-wide competition involving investment analysis, forecasting, and pitching to startups/VCs.  
+  - 1st place in 2016 Venture Capital Investment Competition: a school-wide competition involving investment analysis, forecasting, and pitching to startups/VCs.
+- Relevant Project:
+  - Successfully completed a data science project within a week using R to perform sentiment analysis on Twitter data after scraping tweets using Twitter API Tweepy to predict who would win the Oscars in 2017.
 - Relevant Coursework:
   - Data Science with R
   - Quantitative Methods
