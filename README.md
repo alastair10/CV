@@ -8,7 +8,7 @@
 
 ## About me
 
-I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and tech startups in the UK (fintechs) and EU (healthcare). I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics (stack: SQL/Python).
+I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and fintech startups in the UK and EU. I have strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics (stack: SQL/Python).
 
 My interests in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities have driven me to transition into software development.
 
@@ -44,12 +44,12 @@ _Portfolio Impact Manager - (2022)_
 - Product manager experience: worked with engineers to translate fluid business requirements into product features: page design, user interface, and breakeven calculations/graphs for customer loans.
 - Defined user journeys with remote software engineering teams (using Trello, Jira) and led design sessions (using Lucidchart and Excalidraw).
 - Built financial forecast models for 2 separate fintech/lending startups. Models based around lending projections (interest rates, breakevens, etc.).
-- Used SQL (PostgreSQL), python and MS Excel to query and analyse large databases for EdTech startup. End product included student attrition and programme costs/profitability models. Models were used to derive overall operating cost savings of approximately 15%.
+- Performed extensive data analysis which derived overall operating cost savings of ~15% for EdTech startup. (Tools: PostgreSQL, Python, and Excel).
 - Led integration of portfolio management software solution (Dynamo) for use by investment team and partners.
 
 **[Insight Investment](https://www.insightinvestment.com/) (investment management - fixed income)** - London, UK  
 _Investment Specialist - (2018 - 2022)_
-- Launch client reporting dashboards for ESG metrics using advanced data analysis and multiple data sources (e.g. Bloomberg terminal, FactSet, internal ratings database, Morningstar, etc.).
+- Launched client reporting dashboards for ESG metrics using advanced data analysis and multiple data sources (e.g. Bloomberg terminal, FactSet, internal ratings database, Morningstar, etc.).
 - Performed extensive market research and data analysis for investing in Fixed Income and ESG market (Excel, Tableau, SQL).
 - Demoed and presented findings/research regularly to management team.
 
@@ -80,7 +80,7 @@ _Financial Reporting Associate II - (2008 - 2012)_
 _A Leading Full-Stack Software Development Bootcamp in London, UK_  
 - Developed full-stack web apps using software design principles such as **OOP, TDD, MVC, BDD** and modern technology such as **MERN**.
 - Worked in **Agile** project teams against tight deadlines using **pair programming**, **Git**, and collaborative tools such as Trello, Miro, Figma, and Github.
-- Frequently pair programmed to solve problems efficiently in a fully remote and self-led learning environment, which improved my teamwork and communication skills.
+- Frequently pair programmed to solve problems efficiently in a hybrid and self-led learning environment, which improved my teamwork and communication skills.
 
 #### [IESE Business School](https://www.iese.edu/) - Barcelona, Spain (2015 - 2017)  
 _Masters of Business Administration (MBA)_  
