@@ -8,9 +8,9 @@
 
 ## About me
 
-I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and fintech startups in the UK and EU. I have a strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics (stack: SQL/Python).
+I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and fintech startups in the UK and EU. I have a strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics with SQL and Python.
 
-My interests in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities have driven me to transition into software development.
+My interests in technical problem-solving, an endless yearning to understand how things work, and a desire to pursue a career with continuous learning opportunities have driven me to transition into software development. This transition was made easier thanks to my prior experience with SQL, Python, and R during my time in the finance industry.
 
 My previous work and education have enabled me to build a skillset that combines significant commercial and technical experience in both analytical and client-facing roles. This has allowed me to deliver creative and practical solutions within team projects for clients, internal teams, and multiple C-level stakeholders/partners.
 
