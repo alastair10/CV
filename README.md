@@ -31,7 +31,7 @@ My previous work and education have enabled me to build a skillset that combines
 - Programming languages (JavaScript, TypeScript, Ruby, Python)
 - Web Frameworks and Libraries (React, Node, Express)
 - Relational and Non-Relational Databases including MongoDB, PostgreSQL, MySQL, and TablePlus
-- Object-Oriented Design (OOD), Controller Design Patterns, RESTful APIs, SOLID principles
+- Object-Oriented Programming (OOP), Controller Design Patterns, RESTful APIs, SOLID principles
 - Test-Driven Development (Cypress, Jest, RSpec, Postman)
 - Version control and CI/CD (Git/Github/Github Actions)
 - Agile/XP (pair programming, stand-ups, retros, and sprint planning)
