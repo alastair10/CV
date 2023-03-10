@@ -3,11 +3,11 @@
 
 [About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/alastairchau/)
 </div>
-
-(A PDF version of my CV can be found [here](https://drive.google.com/file/d/17Xal9GHglgbICeU1adre2MisYa79_ga6/view?usp=share_link))
+<br>
 
 <p align="center"><img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Alastair's Github stats" width"50%"/></p>
 
+(A PDF version of my CV can be found [here](https://drive.google.com/file/d/17Xal9GHglgbICeU1adre2MisYa79_ga6/view?usp=share_link))
 ## About me
 
 I am a proactive and adaptable **Full Stack Developer** with a background in the financial industry and fintech startups in the UK and EU. I have a strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics with SQL and Python.
