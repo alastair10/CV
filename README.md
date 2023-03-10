@@ -4,6 +4,8 @@
 [About me](#about-me) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/alastairchau/)
 </div>
 
+(A PDF version of my CV can be found [here](https://drive.google.com/file/d/17Xal9GHglgbICeU1adre2MisYa79_ga6/view?usp=share_link))
+
 <p align="center"><img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Alastair's Github stats" width"50%"/></p>
 
 ## About me
